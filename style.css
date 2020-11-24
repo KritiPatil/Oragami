@@ -1,29 +1,40 @@
+.header{
+    display:flex;
+    justify-content: flex-end;
+}
+
 .camel{
     display: flex;
     justify-content: center;
+    background-color: sienna;
 }
 
-.chamleon{
+.chameleon{
     display: flex;
     justify-content: center;
+    background-color: greenyellow;
 }
 
 .cicada{
     display: flex;
     justify-content: center;
+    background-color: springgreen;
 }
 
 .panda{
     display: flex;
     justify-content: center;
+    background-color: blanchedalmond;
 }
 
 .pigeon{
     display: flex;
     justify-content: center;
+    background-color: gray;
 }
 
 .teddy-bear{
     display: flex;
     justify-content: center;
+    background-color: lightsalmon;
 }
