@@ -7,34 +7,36 @@
     display: flex;
     justify-content: center;
     background-color: sienna;
+    color: #f0fff0;
 }
 
 .chameleon{
     display: flex;
     justify-content: center;
-    background-color: greenyellow;
+    background-color: #adff2f;
 }
 
 .cicada{
     display: flex;
     justify-content: center;
-    background-color: springgreen;
+    background-color: #00ff7f;
 }
 
 .panda{
     display: flex;
     justify-content: center;
-    background-color: blanchedalmond;
+    background-color: #ffebcd;
 }
 
 .pigeon{
     display: flex;
     justify-content: center;
-    background-color: gray;
+    background-color: #808080;
+    color: #f0fff0;
 }
 
 .teddy-bear{
     display: flex;
     justify-content: center;
-    background-color: lightsalmon;
+    background-color: #ff8080;
 }
