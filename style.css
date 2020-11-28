@@ -7,7 +7,7 @@
     display: flex;
     justify-content: center;
     background-color: sienna;
-
+    color: #f0fff0;
 }
 
 .chameleon{
@@ -41,12 +41,75 @@
     background-color: #ff8080;
 }
 
-* p{
+.animals p{
     font-size: 30px;
     font-style: italic;
 
 }
-* ol{
+.animals ol{
     font-size: 15px;
     font-style: italic;
+}
+
+a:link{
+    color: #f0fff0;
+}
+a:visited{
+    color: #000000;
+}
+
+.camel:hover img{
+    opacity: 0.33;
+}
+.chameleon:hover img{
+    opacity: 0.33;
+}
+.cicada:hover img{
+    opacity: 0.33;
+}
+.panda:hover img{
+    opacity: 0.33;
+}
+.pigeon:hover img{
+    opacity: 0.33;
+}
+.teddy-bear:hover img{
+    opacity: 0.33;
+}
+
+.camel p{
+    opacity: 0;
+}
+.camel:hover p{
+    opacity: 1;
+}
+.chameleon p{
+    opacity: 0;
+}
+.chameleon:hover p{
+    opacity: 1;
+}
+.cicada p{
+    opacity: 0;
+}
+.cicada:hover p{
+    opacity: 1;
+}
+.panda p{
+    opacity: 0;
+}
+.panda:hover p{
+    opacity: 1;
+}
+.pigeon p{
+    opacity: 0;
+}
+.pigeon:hover p{
+    opacity: 1;
+}
+.teddy-bear p{
+    opacity: 0;
+}
+.teddy-bear:hover p{
+    opacity: 1;
 }
