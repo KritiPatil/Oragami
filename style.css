@@ -44,11 +44,16 @@
 .animals p{
     font-size: 30px;
     font-style: italic;
+    font-weight: bolder;
+    padding-top: 50px;
 
 }
 .animals ol{
     font-size: 15px;
     font-style: italic;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-left: -5px;
 }
 
 a:link{
